@@ -6,13 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GurukiranDP/](https://github.com/GurukiranDP/)
 
-- 📫 How to reach me **ankithshetty.a@outlook.com**
-
-- ⚡ Fun fact **I am 5'9"**
+- 📫 How to reach me **gurukiran.dp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/guru-kiran-dp-311927249]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guru-kiran-dp-311927249" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/guru-kiran-dp-311927249]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gurukiran DP" height="30" width="40" /></a>
 <a href="https://instagram.com/gurukirandp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankiiith.x" height="30" width="40" /></a>
 </p>
 
