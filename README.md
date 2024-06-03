@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JAVA Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GurukiranDP/](https://github.com/GurukiranDP/)
 
